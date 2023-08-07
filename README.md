@@ -15,11 +15,7 @@ Hey there! I'm Destiny can call me Des for short, an aspiring Web Developer and 
 
 ## Get in Touch
 
-I'm always excited to connect, collaborate, and learn from fellow developers and enthusiasts. Feel free to reach out to me through:
-
-- [Twitter](https://twitter.com/deafveloper)
-- [LinkedIn](https://www.linkedin.com/in/destiny-o-connor-28b2a5255/)
-- [Email](mailto:destinymoconnor@gmail.com)
+I'm always excited to connect, collaborate, and learn from fellow developers and enthusiasts. Feel free to reach out to me!
 
 Let's work together to make the web a more inclusive and vibrant place for everyone! 🌈🌍
 
