@@ -1,1 +1,1 @@
-![Welcome Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQzaHRlcmdjbzhveGpwNGlzOTN0MThpNjN4bW5qbmMzbm13eGh2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YuXAKjaWBIVuJKGqny/giphy-downsized-large.gif)
+![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](File path)
