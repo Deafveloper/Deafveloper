@@ -1,4 +1,4 @@
-![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](https://github.com/Deafveloper/Deafveloper/blob/main/Destinyoconnorbanner.png)
+![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](https://github.com/Deafveloper/Deafveloper/blob/main/Destinyoconnorbanner%20(1).png)
 ##  
  
 # Hi, I'm Destiny, the Deafveloper!
