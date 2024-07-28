@@ -4,7 +4,9 @@
 # Hi, I'm Destiny, the Deafveloper!
 
 **Wondering the wordplay?**  
+
 **Deaf・veloper:**  
+
 A passionate Deaf developer who creates roadmaps to navigate better in the uncharted world of accessibility.
 
 I am also a web developer for [Women Blessing Women](https://www.womenblessingwomen.org), where we help small businesses get started with their websites and other IT needs.
