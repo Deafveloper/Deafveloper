@@ -1,8 +1,37 @@
 ![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](https://github.com/Deafveloper/Deafveloper/blob/main/Destinyoconnorbanner.png)
 ##  
  
-I'm a web specialist passionate about crafting digital experiences that empower businesses and individuals. My expertise lies in transforming complex ideas into user-friendly websites. Through my work, I've helped numerous nonprofits and small businesses establish a strong online presence, providing them with the tools and knowledge to succeed.  
+# Hi, I'm Destiny, the Deafveloper!
 
-Beyond building websites, I'm dedicated to introducing you to inclusive places. As Co-Chair of the CNCF Deaf and Hard of Hearing Working Group, I'm committed to showing our community where everyone can thrive. By combining my technical skills with advocacy work, I aim to create and provide you with a vessel to navigate in the uncharted waters of accessibility. 
+**Wondering the wordplay?**  
+**Deaf・veloper:**  
+A passionate Deaf developer who creates roadmaps to navigate better in the uncharted world of accessibility.
+
+I am also a web developer for [Women Blessing Women](https://www.womenblessingwomen.org), where we help small businesses get started with their websites and other IT needs.
+
+---
+
+## Welcome to My GitHub!
+
+Take a look around!
+
+### I am currently working on...
+- **Project 1:** Description of project 1
+- **Project 2:** Description of project 2
+- **Project 3:** Description of project 3
+
+---
+
+## My 2024 Projects:
+
+- **Project A:** Exciting details about project A
+- **Project B:** Exciting details about project B
+- **Project C:** Exciting details about project C
+
+---
+
+## Fun Fact About Me:
+
+I became the first deaf Black woman keynote speaker at [KubeCon NA 2023](https://kubecon.io/) 😱
 
 
