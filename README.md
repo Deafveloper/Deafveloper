@@ -3,11 +3,11 @@
 # 👋 Hi, I'm Destiny — the Deafveloper!
 
 **Wondering about the wordplay?**  
+
 **Deaf** + **Developer** = *Deafveloper* 💻✨
 
 I’m a passionate Deaf web developer and accessibility advocate crafting roadmaps for a more inclusive tech world. Whether I’m building websites, sharing my journey, or teaching Deaf kids how to code in ASL, I’m all about making tech *make sense* — for everyone.
 
----
 
 ## 🌟 What I Do
 
@@ -16,7 +16,6 @@ I’m a passionate Deaf web developer and accessibility advocate crafting roadma
 - Facilitator for [Deaf Kids Code](https://deafkidscode.org) (visual, hands-on coding in ASL)  
 - Advocate for inclusive tech, accessible learning, and creative expression
 
----
 
 ## 🔧 What I'm Working On (2025)
 
@@ -24,7 +23,6 @@ I’m a passionate Deaf web developer and accessibility advocate crafting roadma
 - 🎓 **Courses for Deaf Kids** — hands-on, visual-first AI & coding lessons using Canva, p5.js & Elementari  
 - 🧠 **Learning All I Can About AI** — diving deep into ethical AI, education tools, and creative use cases
 
----
 
 ## 🐾 Fun Facts About Me
 
@@ -39,7 +37,6 @@ Let’s just say... nature loves me. Or loves chasing me.
 
 Basically, I’ve lived a full National Geographic episode.
 
----
 
 ## 📬 Let’s Connect
 
