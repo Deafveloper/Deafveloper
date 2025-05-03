@@ -1,5 +1,4 @@
 ![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](https://github.com/Deafveloper/Deafveloper/blob/main/deafveloperbanner.png)
-##  
  
 # 👋 Hi, I'm Destiny — the Deafveloper!
 
@@ -14,7 +13,7 @@ I’m a passionate Deaf web developer and accessibility advocate crafting roadma
 
 - Contribute to the [CNCF Deaf & Hard of Hearing Working Group](https://www.cncf.io)  
 - Web Developer at [Women Blessing Women](https://womenblessingwomen.org)  
-- Curriculum creator for **Deaf Kids Code** (visual, hands-on coding in ASL)  
+- Facilitator for [Deaf Kids Code](https://deafkidscode.org) (visual, hands-on coding in ASL)  
 - Advocate for inclusive tech, accessible learning, and creative expression
 
 ---
