@@ -19,7 +19,7 @@ I’m a passionate Deaf web developer and accessibility advocate crafting roadma
 
 ## 🔧 What I'm Working On (2025)
 
-- 🪄 **Tom Riddle Journal** — an interactive coding project where the diary replies to you (yes, really)  
+- 🪄 [**Tom Riddle Journal**](https://github.com/Deafveloper/Tom-Riddle-Diary) - an interactive coding project where the diary replies to you (yes, really)  
 - 🎓 **Courses for Deaf Kids** — hands-on, visual-first AI & coding lessons using Canva, p5.js & Elementari  
 - 🧠 **Learning All I Can About AI** — diving deep into ethical AI, education tools, and creative use cases
 
