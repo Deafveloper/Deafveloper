@@ -19,7 +19,9 @@ I’m Destiny — a Deaf developer, gamer, educator, and accessibility advocate 
 
 ## >>>>> CURRENT QUESTS:
 
-[![Tom Riddle Journal](./TomRiddleDiary.png)](https://github.com/Deafveloper/Tom-Riddle-Diary)  
+[![Tom Riddle Journal](<a href="https://github.com/Deafveloper/Tom-Riddle-Diary">
+  <img src="./TomRiddleDiary.png" alt="Tom Riddle Journal" width="300"/>
+</a>)](https://github.com/Deafveloper/Tom-Riddle-Diary)  
 **Tom Riddle Journal**  
 An interactive magic book built with code — where the page talks back.
 
