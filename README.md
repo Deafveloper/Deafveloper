@@ -22,9 +22,7 @@ I’m Destiny — a Deaf developer, gamer, educator, and accessibility advocate 
 <a href="https://github.com/Deafveloper/Tom-Riddle-Diary">
   <img src="./TomRiddleDiary.png" alt="Tom Riddle Journal" width="300"/>
 </a>
-
-<strong>Tom Riddle Journal</strong>  
-An interactive magic book built with code — where the page talks back.  
+  
 **Tom Riddle Journal**  
 An interactive magic book built with code — where the page talks back.
 
