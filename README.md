@@ -1,48 +1,70 @@
-![Header that says Destiny O'Connor Co-chair for CNCF DHH WG | Keynote speaker | Web Specialist](https://github.com/Deafveloper/Deafveloper/blob/main/deafveloperbanner.png)
- 
-# 👋 Hi, I'm Destiny — the Deafveloper!
+<!-- README: Destiny "The Deafveloper" O'Connor -->
 
-**Wondering about the wordplay?**  
+# Destiny O'Connor | Deafveloper
 
-**Deaf** + **Developer** = *Deafveloper* 💻✨
+> “Not all code is meant to be compiled — some of it is meant to be felt.”  
 
-I’m a passionate Deaf web developer and accessibility advocate crafting roadmaps for a more inclusive tech world. Whether I’m building websites, sharing my journey, or teaching Deaf kids how to code in ASL, I’m all about making tech *make sense* — for everyone.
+I’m Destiny — a Deaf developer, gamer, educator, and accessibility advocate crafting magic in tech, classrooms, and everyday life.
 
+---
 
-## 🌟 What I Do
+## >>>>> ROLES & MISSIONS:
 
-- Contribute to the [CNCF Deaf & Hard of Hearing Working Group](https://www.cncf.io)  
-- Web Developer at [Women Blessing Women](https://womenblessingwomen.org)  
-- Facilitator for [Deaf Kids Code](https://deafkidscode.org) (visual, hands-on coding in ASL)  
-- Advocate for inclusive tech, accessible learning, and creative expression
+- Contribute to [CNCF Deaf & Hard of Hearing Working Group](https://www.cncf.io)
+- Web Developer for [Women Blessing Women](https://womenblessingwomen.org)
+- Create hands-on coding curriculum for Deaf Kids Code
+- Advocate for inclusive, accessible **everything** — tech, education, everyday experiences
 
+---
 
-## 🔧 What I'm Working On (2025)
+## >>>>> CURRENT QUESTS:
 
-- 🪄 [**Tom Riddle Journal**](https://github.com/Deafveloper/Tom-Riddle-Diary) - an interactive coding project where the diary replies to you (yes, really)  
-- 🎓 **Courses for Deaf Kids** — hands-on, visual-first AI & coding lessons using Canva, p5.js & Elementari  
-- 🧠 **Learning All I Can About AI** — diving deep into ethical AI, education tools, and creative use cases
+[![Tom Riddle Journal](./TomRiddleDiary.png)](https://github.com/Deafveloper/Tom-Riddle-Diary)  
+**Tom Riddle Journal**  
+An interactive magic book built with code — where the page talks back.
 
+<!-- Add more buttons here as you build your next two featured projects -->
 
-## 🐾 Fun Facts About Me
+---
 
-Let’s just say... nature loves me. Or loves chasing me.  
+## >>>>> LOADOUT:
 
-- 🦅 Got chased by a bald eagle while canoeing the **Meramec River in MO** — crashed into a tree, and *spiders* rained into the boat.  
-- 🐶 Got chased by a Dalmatian named **Sprinkles** (my sister’s dog) at age 9 in **Inglewood, CA**.  
-- 🐀 A **possum** ran me down in **Hawthorne, CA**.  
-- 🦝 A **raccoon** came for me in **Santa Barbara, CA**.  
-- 🌺 Got *kissed* by a **hummingbird** in **Redondo Beach, CA**.  
-- 🐕 And once, while chasing my niece's dog Chester to bring him back inside, I looked back and saw both of us being chased by a **German Shepherd in Los Angeles, CA**!
+`HTML` · `CSS` · `JavaScript` · `GitHub` · `p5.js` · `Canva`  
+Building in the open. Teaching in ASL. Focused on impact.
 
-Basically, I’ve lived a full National Geographic episode.
+---
 
+## >>>>> LORE ARCHIVES:
 
-## 📬 Let’s Connect
+- 🎓 Harvard CS50x — Web Programming (in progress)  
+- 🏅 freeCodeCamp: Responsive Web Design  
+- 📜 Self-taught since 2018 (with a journal full of spells and source code)
+
+---
+
+## >>>>> FIELD JOURNAL: (a.k.a. National Geographic: Destiny Edition)
+
+Nature loves me. And also… **chases me**.  
+
+- Got chased by a bald eagle while canoeing the **Meramec River, MO** — hit a tree and spiders fell into the boat.  
+- Got chased by my sister’s Dalmatian named **Sprinkles** in **Inglewood, CA** at age 9.  
+- Chased by a **possum** in **Hawthorne, CA**.  
+- Chased by a **raccoon** in **Santa Barbara, CA**.  
+- Got kissed by a **hummingbird** in **Redondo Beach, CA**.  
+- Chased my niece’s dog **Chester**, only to find both of us being chased by a **German Shepherd** in **Los Angeles, CA**.
+
+---
+
+## >>>>> TRANSMISSION SIGNAL:
 
 - 🌐 [destinyoconnor.dev](https://destinyoconnor.dev)  
 - 🐦 [@deafveloper](https://twitter.com/deafveloper)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/destiny-o-connor-28b2a5255/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/destiny-o-connor-28b2a5255/)  
+- 🧙🏽‍♀️ Coming soon: courses, magic, and digital artifacts...
+
+---
+
+> *“Wands or code, it’s all about crafting magic for a better world.”*
 
 
 
