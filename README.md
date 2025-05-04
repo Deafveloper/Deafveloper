@@ -6,6 +6,10 @@
 
 I’m Destiny — a Deaf developer, gamer, educator, and accessibility advocate crafting magic in tech, classrooms, and everyday life.
 
+<video width="320" height="240" controls>
+  <source src="Untitled design (1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## >>>>> ROLES & MISSIONS:
