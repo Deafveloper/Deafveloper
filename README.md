@@ -2,7 +2,7 @@
 
 # Destiny O'Connor · Deafveloper 🖐️💻
 
-<h2 style="color:#00ff41; font-family: monospace;"> Follow the rabbit 🐇 </h2>
+## ● Follow the rabbit 🐇
 
 I’m a full-stack developer focused on building practical, real-world applications shaped by lived experience, teaching, and continuous learning.
 
