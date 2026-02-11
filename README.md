@@ -10,7 +10,7 @@ I teach Deaf and Hard of Hearing students with Deaf Kids Code, where I teach com
 
 I contribute to CNCF initiatives and create documentation to support community programs, training, and inclusive technical spaces.
 
-I continue building full-stack applications through Tri-C and independent projects, working with Python, Django, JavaScript, and PostgreSQL.
+I continue building full-stack applications through Tri-C and independent projects, working with Python, Django, JavaScript, and Databases.
 
 Build down the rabbit hole. we all mad here. 🐇
 
